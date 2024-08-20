@@ -1,12 +1,12 @@
 {
-  "name": "iobroker.enocean",
+  "name": "iobroker.enocean-custom",
   "version": "0.9.3",
   "description": "Connects EnOcean devices via USB/Serial devices with TCM300 Chips",
   "author": {
-    "name": "Jey Cee",
+    "name": "ZK",
     "email": "iobroker@all-smart.net"
   },
-  "homepage": "https://github.com/jey-cee/ioBroker.enocean",
+  "homepage": "https://github.com/kimzeuner/ioBroker.enocean.custom",
   "license": "CC-BY-NC-3.0",
   "keywords": [
     "EnOcean",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jey-Cee/ioBroker.enocean.git"
+    "url": "git+https://github.com/kimzeuner/ioBroker.enocean.custom.git"
   },
   "dependencies": {
     "@iobroker/adapter-core": "2.6.8",
